@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COURSE_PLAN.md.md",
+                "file": "Add/Cloudflare Tunnel - без домена.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COURSE_PLAN.md"
+              "title": "Cloudflare Tunnel - без домена"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COURSE_PLAN.md.md",
+                "file": "Add/Cloudflare Tunnel - без домена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для COURSE_PLAN.md"
+              "title": "Обратные ссылки для Cloudflare Tunnel - без домена"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COURSE_PLAN.md.md",
+                "file": "Add/Cloudflare Tunnel - без домена.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из COURSE_PLAN.md"
+              "title": "Исходящие ссылки из Cloudflare Tunnel - без домена"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COURSE_PLAN.md.md",
+                "file": "Add/Cloudflare Tunnel - без домена.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура COURSE_PLAN.md"
+              "title": "Структура Cloudflare Tunnel - без домена"
             }
           }
         ]
@@ -185,7 +185,9 @@
   },
   "active": "046f60d7b4850575",
   "lastOpenFiles": [
-    "Add/Cloudflare Tunnel → локальный сервер (macOS).md",
+    "Add/Cloudflare Tunnel → с поддоменом.md",
+    "Add/Cloudflare Tunnel - без домена.md",
+    "COURSE_PLAN.md.md",
     "Add",
     "untitled folder",
     "WEEK_1_PLAN/README_STUDENT.md",
@@ -202,7 +204,6 @@
     "WEEK_3_PLAN/README_STUDENT.md",
     "WEEK_3_PLAN/WEEK_3_PLAN.md",
     "WEEK_3_PLAN",
-    "COURSE_PLAN.md.md",
     "cursor/rules/cursor-rules-short.mdc",
     "cursor/rules/cursor-rules-full.mdc",
     "cursor/rules",
@@ -219,7 +220,6 @@
     "WEEK_2_PLAN/WEEK_2_PLAN.md",
     "WEEK_2_PLAN",
     "docs/BUG_REPORT_TEMPLATE.md",
-    "docs/CONTEXT_PACKAGES.md",
-    "docs/CHAT_VS_AGENT_CHECKLIST.md"
+    "docs/CONTEXT_PACKAGES.md"
   ]
 }
