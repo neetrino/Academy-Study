@@ -41,6 +41,12 @@
 2. Выполни Дни 11–15 по [WEEK_3_PLAN/WEEK_3_PLAN.md](WEEK_3_PLAN/WEEK_3_PLAN.md)
 3. Создай артефакты: TASK_TEMPLATES, PRE_PR_ROUTINE, CURSOR_COMMANDS_CATALOG, OPTIMIZATION_REPORT, POSTMORTEM_TEMPLATE
 
+### Неделя 4 (день 16–20) — Финальный проект
+
+1. Открой **[WEEK_4_PLAN/README_STUDENT.md](WEEK_4_PLAN/README_STUDENT.md)** — путеводитель
+2. Выполни Дни 16–20 по [WEEK_4_PLAN/WEEK_4_PLAN.md](WEEK_4_PLAN/WEEK_4_PLAN.md)
+3. Результат: мини-проект (6+ PR, 10+ тестов), SELF_REVIEW.md
+
 ### Структура проекта
 
 ```
@@ -63,13 +69,16 @@
 │   ├── PRE_PR_ROUTINE.md
 │   ├── CURSOR_COMMANDS_CATALOG.md
 │   ├── OPTIMIZATION_REPORT_TEMPLATE.md
-│   └── POSTMORTEM_TEMPLATE.md
+│   ├── POSTMORTEM_TEMPLATE.md
+│   ├── SELF_REVIEW_TEMPLATE.md
+│   └── FINAL_PROJECT_CHECKLIST.md
 ├── .cursor/rules/
 ├── WEEK_0_PLAN/
 ├── WEEK_1_PLAN/
 ├── WEEK_2_PLAN/
-└── WEEK_3_PLAN/            ← материалы Недели 3
-    ├── WEEK_3_PLAN.md
+├── WEEK_3_PLAN/
+└── WEEK_4_PLAN/            ← финальный проект
+    ├── WEEK_4_PLAN.md
     └── README_STUDENT.md
 ```
 
