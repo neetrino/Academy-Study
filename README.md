@@ -35,6 +35,12 @@
 2. Выполни Дни 6–10 по [WEEK_2_PLAN/WEEK_2_PLAN.md](WEEK_2_PLAN/WEEK_2_PLAN.md)
 3. Создай артефакты: ARCHITECTURE, ADR_TEMPLATE, SECURITY_CHECKLIST, AI_TESTING_GUIDE, PR_REVIEW_TEMPLATE
 
+### Неделя 3 (день 11–15)
+
+1. Открой **[WEEK_3_PLAN/README_STUDENT.md](WEEK_3_PLAN/README_STUDENT.md)** — путеводитель
+2. Выполни Дни 11–15 по [WEEK_3_PLAN/WEEK_3_PLAN.md](WEEK_3_PLAN/WEEK_3_PLAN.md)
+3. Создай артефакты: TASK_TEMPLATES, PRE_PR_ROUTINE, CURSOR_COMMANDS_CATALOG, OPTIMIZATION_REPORT, POSTMORTEM_TEMPLATE
+
 ### Структура проекта
 
 ```
@@ -49,15 +55,21 @@
 │   ├── BUG_REPORT_TEMPLATE.md
 │   ├── ARCHITECTURE.md
 │   ├── ADR_TEMPLATE.md
-│   ├── adr/                 ← ADR
+│   ├── adr/
 │   ├── SECURITY_CHECKLIST.md
 │   ├── AI_TESTING_GUIDE.md
-│   └── PR_REVIEW_TEMPLATE.md
+│   ├── PR_REVIEW_TEMPLATE.md
+│   ├── TASK_TEMPLATES.md
+│   ├── PRE_PR_ROUTINE.md
+│   ├── CURSOR_COMMANDS_CATALOG.md
+│   ├── OPTIMIZATION_REPORT_TEMPLATE.md
+│   └── POSTMORTEM_TEMPLATE.md
 ├── .cursor/rules/
 ├── WEEK_0_PLAN/
 ├── WEEK_1_PLAN/
-└── WEEK_2_PLAN/            ← материалы Недели 2
-    ├── WEEK_2_PLAN.md
+├── WEEK_2_PLAN/
+└── WEEK_3_PLAN/            ← материалы Недели 3
+    ├── WEEK_3_PLAN.md
     └── README_STUDENT.md
 ```
 

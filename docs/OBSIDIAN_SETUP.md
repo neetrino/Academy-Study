@@ -34,6 +34,8 @@
 | `WEEK_1_PLAN/README_STUDENT.md` | Путеводитель по Неделе 1 |
 | `WEEK_2_PLAN/WEEK_2_PLAN.md` | План Недели 2 (архитектура, качество) |
 | `WEEK_2_PLAN/README_STUDENT.md` | Путеводитель по Неделе 2 |
+| `WEEK_3_PLAN/WEEK_3_PLAN.md` | План Недели 3 (производственный цикл) |
+| `WEEK_3_PLAN/README_STUDENT.md` | Путеводитель по Неделе 3 |
 | `docs/AI_WORKFLOW.md` | Правила работы с AI |
 
 ---
