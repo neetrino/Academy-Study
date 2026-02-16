@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add/Cloudflare Tunnel - без домена.md",
+                "file": "Add/Cloudflare Tunnel/Cloudflare Tunnel - без домена.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Add/Cloudflare Tunnel - без домена.md",
+                "file": "Add/Cloudflare Tunnel/Cloudflare Tunnel - без домена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Add/Cloudflare Tunnel - без домена.md",
+                "file": "Add/Cloudflare Tunnel/Cloudflare Tunnel - без домена.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Add/Cloudflare Tunnel - без домена.md",
+                "file": "Add/Cloudflare Tunnel/Cloudflare Tunnel - без домена.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,10 +183,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "046f60d7b4850575",
+  "active": "f125c02ebd9c4680",
   "lastOpenFiles": [
-    "Add/Cloudflare Tunnel → с поддоменом.md",
-    "Add/Cloudflare Tunnel - без домена.md",
+    "Add/Cloudflare Tunnel",
+    "Add/Cloudflare Tunnel/Cloudflare Tunnel → с поддоменом.md",
+    "Add/Cloudflare Tunnel/Cloudflare Tunnel - без домена.md",
     "COURSE_PLAN.md.md",
     "Add",
     "untitled folder",
@@ -219,7 +220,6 @@
     "WEEK_2_PLAN/README_STUDENT.md",
     "WEEK_2_PLAN/WEEK_2_PLAN.md",
     "WEEK_2_PLAN",
-    "docs/BUG_REPORT_TEMPLATE.md",
-    "docs/CONTEXT_PACKAGES.md"
+    "docs/BUG_REPORT_TEMPLATE.md"
   ]
 }
