@@ -21,13 +21,14 @@
 
 | № | Шаг | Документ | Действие |
 |---|-----|----------|----------|
-| 1 | Урок 0.1 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти теорию и практику 0.1 |
-| 2 | AI Workflow | [docs/AI_WORKFLOW.md](../docs/AI_WORKFLOW.md) | Прочитать и при необходимости дополнить |
-| 3 | ДЗ 0.1 | [HOMEWORK_01_TEMPLATE.md](HOMEWORK_01_TEMPLATE.md) | Сделать конспект «Что запрещено AI» |
-| 4 | Урок 0.2 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти теорию и практику 0.2 |
-| 5 | Правила | [.cursor/rules/](../.cursor/rules/) | Корректировать короткие и полные правила под свой проект |
-| 6 | ДЗ 0.2 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Сохранить короткие и полные правила |
-| 7 | Итог | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти итоговый чеклист |
+| 1 | Obsidian (опц.) | [docs/OBSIDIAN_SETUP.md](../docs/OBSIDIAN_SETUP.md) | Установить и открыть проект — удобное чтение уроков |
+| 2 | Урок 0.1 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти теорию и практику 0.1 |
+| 3 | AI Workflow | [docs/AI_WORKFLOW.md](../docs/AI_WORKFLOW.md) | Прочитать и при необходимости дополнить |
+| 4 | ДЗ 0.1 | [HOMEWORK_01_TEMPLATE.md](HOMEWORK_01_TEMPLATE.md) | Сделать конспект «Что запрещено AI» |
+| 5 | Урок 0.2 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти теорию и практику 0.2 |
+| 6 | Правила | [.cursor/rules/](../.cursor/rules/) | Корректировать короткие и полные правила под свой проект |
+| 7 | ДЗ 0.2 | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Сохранить короткие и полные правила |
+| 8 | Итог | [WEEK_0_PLAN.md](WEEK_0_PLAN.md) | Пройти итоговый чеклист |
 
 ---
 
@@ -37,6 +38,7 @@
 |------|------------|
 | `WEEK_0_PLAN.md` | Полный план Недели 0: теория, практика, ДЗ, критерии |
 | `docs/AI_WORKFLOW.md` | Правила работы с AI: когда Chat/Agent, что запрещено, куда смотреть при конфликтах |
+| `docs/OBSIDIAN_SETUP.md` | Настройка Obsidian — удобное чтение уроков (.md) |
 | `.cursor/rules/cursor-rules-short.mdc` | Короткие правила (до 25 строк) — всегда применяются |
 | `.cursor/rules/cursor-rules-full.mdc` | Полные правила — подробный стиль, тесты, примеры |
 | `HOMEWORK_01_TEMPLATE.md` | Шаблон для конспекта «Что запрещено AI» |

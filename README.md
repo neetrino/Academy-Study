@@ -29,8 +29,9 @@
 ├── README.md              ← ты здесь
 ├── COURSE_PLAN.md.md      ← полный план на 4 недели
 ├── docs/
-│   └── AI_WORKFLOW.md     ← правила работы с AI
-├── .cursor/rules/         ← правила Cursor (короткие и полные)
+│   ├── AI_WORKFLOW.md     ← правила работы с AI
+│   └── OBSIDIAN_SETUP.md  ← Obsidian для удобного чтения уроков
+├── .cursor/rules/          ← правила Cursor (короткие и полные)
 └── WEEK_0_PLAN/           ← материалы Недели 0
     ├── WEEK_0_PLAN.md     ← план уроков
     ├── README_STUDENT.md  ← путеводитель
