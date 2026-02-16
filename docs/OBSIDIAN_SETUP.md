@@ -30,6 +30,8 @@
 | `COURSE_PLAN.md.md` | Полный план на 4 недели |
 | `WEEK_0_PLAN/WEEK_0_PLAN.md` | План Недели 0 |
 | `WEEK_0_PLAN/README_STUDENT.md` | Путеводитель по Неделе 0 |
+| `WEEK_1_PLAN/WEEK_1_PLAN.md` | План Недели 1 (5 дней) |
+| `WEEK_1_PLAN/README_STUDENT.md` | Путеводитель по Неделе 1 |
 | `docs/AI_WORKFLOW.md` | Правила работы с AI |
 
 ---
