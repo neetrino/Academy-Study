@@ -3,6 +3,8 @@
 **Срок:** день 0–1  
 **Курс:** AI-Coding в Cursor (VibeCoding → Production)
 
+> **Для студента:** [README_STUDENT.md](README_STUDENT.md) — путеводитель по Неделе 0 и порядок работы.
+
 ---
 
 ## Цель недели
