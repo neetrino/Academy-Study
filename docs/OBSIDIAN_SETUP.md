@@ -32,6 +32,8 @@
 | `WEEK_0_PLAN/README_STUDENT.md` | Путеводитель по Неделе 0 |
 | `WEEK_1_PLAN/WEEK_1_PLAN.md` | План Недели 1 (5 дней) |
 | `WEEK_1_PLAN/README_STUDENT.md` | Путеводитель по Неделе 1 |
+| `WEEK_2_PLAN/WEEK_2_PLAN.md` | План Недели 2 (архитектура, качество) |
+| `WEEK_2_PLAN/README_STUDENT.md` | Путеводитель по Неделе 2 |
 | `docs/AI_WORKFLOW.md` | Правила работы с AI |
 
 ---

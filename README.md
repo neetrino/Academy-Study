@@ -29,23 +29,36 @@
 2. Выполни Дни 1–5 по [WEEK_1_PLAN/WEEK_1_PLAN.md](WEEK_1_PLAN/WEEK_1_PLAN.md)
 3. Создай артефакты в `docs/`: PROMPT_TEMPLATE, CHAT_VS_AGENT_CHECKLIST, CONTEXT_PACKAGES, BUG_REPORT_TEMPLATE
 
+### Неделя 2 (день 6–10)
+
+1. Открой **[WEEK_2_PLAN/README_STUDENT.md](WEEK_2_PLAN/README_STUDENT.md)** — путеводитель
+2. Выполни Дни 6–10 по [WEEK_2_PLAN/WEEK_2_PLAN.md](WEEK_2_PLAN/WEEK_2_PLAN.md)
+3. Создай артефакты: ARCHITECTURE, ADR_TEMPLATE, SECURITY_CHECKLIST, AI_TESTING_GUIDE, PR_REVIEW_TEMPLATE
+
 ### Структура проекта
 
 ```
 ├── README.md               ← ты здесь
 ├── COURSE_PLAN.md.md       ← полный план на 4 недели
 ├── docs/
-│   ├── AI_WORKFLOW.md      ← правила работы с AI
-│   ├── OBSIDIAN_SETUP.md   ← Obsidian для чтения уроков
+│   ├── AI_WORKFLOW.md
+│   ├── OBSIDIAN_SETUP.md
 │   ├── PROMPT_TEMPLATE.md
 │   ├── CHAT_VS_AGENT_CHECKLIST.md
 │   ├── CONTEXT_PACKAGES.md
-│   └── BUG_REPORT_TEMPLATE.md
-├── .cursor/rules/          ← правила Cursor
-├── WEEK_0_PLAN/            ← материалы Недели 0
-└── WEEK_1_PLAN/            ← материалы Недели 1
-    ├── WEEK_1_PLAN.md      ← план 5 дней
-    └── README_STUDENT.md   ← путеводитель
+│   ├── BUG_REPORT_TEMPLATE.md
+│   ├── ARCHITECTURE.md
+│   ├── ADR_TEMPLATE.md
+│   ├── adr/                 ← ADR
+│   ├── SECURITY_CHECKLIST.md
+│   ├── AI_TESTING_GUIDE.md
+│   └── PR_REVIEW_TEMPLATE.md
+├── .cursor/rules/
+├── WEEK_0_PLAN/
+├── WEEK_1_PLAN/
+└── WEEK_2_PLAN/            ← материалы Недели 2
+    ├── WEEK_2_PLAN.md
+    └── README_STUDENT.md
 ```
 
 ---
